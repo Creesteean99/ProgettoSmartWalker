@@ -1,0 +1,9 @@
+[console_scripts]
+elaborate_data = src.elaborate_data:main
+initial_pose = src.initial_pose:main
+move_test = src.move_test:main
+odom_data_collector = src.odom_data_collector:main
+parameter_server = src.parameter_server:main
+rehabilitation_guide = src.rehabilitation_guide:main
+subscribe_to_data = src.subscribe_to_data:main
+velocity_data = src.velocity_data:main

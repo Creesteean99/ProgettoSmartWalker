@@ -1,0 +1,2 @@
+bool record
+bool create

@@ -1,0 +1,1 @@
+/home/crist/smartwalker_ws/build/custom_interfaces/rosidl_cmake/srv/VelocityRegistration_Request.msg

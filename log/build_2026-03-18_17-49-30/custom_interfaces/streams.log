@@ -1,0 +1,204 @@
+[0.013s] Invoking command in '/home/crist/smartwalker_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/crist/tesi/install/tesi_pkg:/home/crist/turtlebot3_ws/install/turtlebot3_teleop:/home/crist/turtlebot3_ws/install/turtlebot3_example:/home/crist/turtlebot_workspace/install/turtlebot_controller:/opt/ros/humble /usr/bin/cmake --build /home/crist/smartwalker_ws/build/custom_interfaces -- -j12 -l12
+[0.053s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_generator_c[0m
+[0.062s] [  1%] Built target custom_interfaces__cpp
+[0.064s] [ 12%] Built target custom_interfaces__rosidl_generator_c
+[0.070s] [ 12%] Built target ament_cmake_python_symlink_custom_interfaces
+[0.073s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_typesupport_introspection_cpp[0m
+[0.074s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_typesupport_cpp[0m
+[0.074s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_typesupport_fastrtps_c[0m
+[0.075s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[0.077s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_typesupport_c[0m
+[0.078s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_typesupport_introspection_c[0m
+[0.089s] [ 23%] Built target custom_interfaces__rosidl_typesupport_introspection_cpp
+[0.089s] [ 34%] Built target custom_interfaces__rosidl_typesupport_cpp
+[0.090s] [ 45%] Built target custom_interfaces__rosidl_typesupport_c
+[0.092s] [ 56%] Built target custom_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.092s] [ 67%] Built target custom_interfaces__rosidl_typesupport_fastrtps_c
+[0.093s] [ 78%] Built target custom_interfaces__rosidl_typesupport_introspection_c
+[0.114s] [ 78%] Built target custom_interfaces
+[0.136s] [ 80%] Built target custom_interfaces__py
+[0.147s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_generator_py[0m
+[0.162s] [ 89%] Built target custom_interfaces__rosidl_generator_py
+[0.173s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_typesupport_c__pyext[0m
+[0.173s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.173s] [35m[1mConsolidate compiler generated dependencies of target custom_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[0.186s] [100%] Built target custom_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.186s] [100%] Built target custom_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.186s] [100%] Built target custom_interfaces__rosidl_typesupport_c__pyext
+[0.365s] running egg_info
+[0.379s] writing custom_interfaces.egg-info/PKG-INFO
+[0.379s] writing dependency_links to custom_interfaces.egg-info/dependency_links.txt
+[0.379s] writing top-level names to custom_interfaces.egg-info/top_level.txt
+[0.419s] reading manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[0.422s] writing manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[0.473s] [100%] Built target ament_cmake_python_build_custom_interfaces_egg
+[0.486s] Invoked command in '/home/crist/smartwalker_ws/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/crist/tesi/install/tesi_pkg:/home/crist/turtlebot3_ws/install/turtlebot3_teleop:/home/crist/turtlebot3_ws/install/turtlebot3_example:/home/crist/turtlebot_workspace/install/turtlebot_controller:/opt/ros/humble /usr/bin/cmake --build /home/crist/smartwalker_ws/build/custom_interfaces -- -j12 -l12
+[0.497s] Invoking command in '/home/crist/smartwalker_ws/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/crist/tesi/install/tesi_pkg:/home/crist/turtlebot3_ws/install/turtlebot3_teleop:/home/crist/turtlebot3_ws/install/turtlebot3_example:/home/crist/turtlebot_workspace/install/turtlebot_controller:/opt/ros/humble /usr/bin/cmake --install /home/crist/smartwalker_ws/build/custom_interfaces
+[0.505s] -- Install configuration: ""
+[0.505s] -- Execute custom install script
+[0.505s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/ament_index/resource_index/rosidl_interfaces/custom_interfaces
+[0.515s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__functions.h
+[0.523s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__struct.h
+[0.532s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__type_support.h
+[0.540s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/parameter.h
+[0.549s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.557s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/csv_file_name.h
+[0.566s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__functions.h
+[0.574s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__struct.h
+[0.582s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__type_support.h
+[0.590s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__functions.h
+[0.599s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__struct.h
+[0.607s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__type_support.h
+[0.615s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__functions.h
+[0.623s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__struct.h
+[0.632s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__type_support.h
+[0.641s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/guide_selected.h
+[0.649s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/velocity_registration.h
+[0.657s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/environment/library_path.sh
+[0.666s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/environment/library_path.dsv
+[0.675s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__rosidl_typesupport_fastrtps_c.h
+[0.683s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.692s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__rosidl_typesupport_fastrtps_c.h
+[0.700s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__rosidl_typesupport_fastrtps_c.h
+[0.708s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__rosidl_typesupport_fastrtps_c.h
+[0.716s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__builder.hpp
+[0.725s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__struct.hpp
+[0.733s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__traits.hpp
+[0.742s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__type_support.hpp
+[0.749s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/parameter.hpp
+[0.758s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.767s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/csv_file_name.hpp
+[0.775s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__builder.hpp
+[0.784s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__struct.hpp
+[0.792s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__traits.hpp
+[0.802s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__type_support.hpp
+[0.811s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__builder.hpp
+[0.820s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__struct.hpp
+[0.828s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__traits.hpp
+[0.837s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__type_support.hpp
+[0.845s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__builder.hpp
+[0.854s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__struct.hpp
+[0.862s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__traits.hpp
+[0.871s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__type_support.hpp
+[0.880s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/guide_selected.hpp
+[0.888s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/velocity_registration.hpp
+[0.898s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__rosidl_typesupport_fastrtps_cpp.hpp
+[0.906s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.915s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__rosidl_typesupport_fastrtps_cpp.hpp
+[0.924s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__rosidl_typesupport_fastrtps_cpp.hpp
+[0.933s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__rosidl_typesupport_fastrtps_cpp.hpp
+[0.941s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__rosidl_typesupport_introspection_c.h
+[0.949s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.958s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__rosidl_typesupport_introspection_c.h
+[0.966s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__rosidl_typesupport_introspection_c.h
+[0.974s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__rosidl_typesupport_introspection_c.h
+[0.982s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/msg/detail/parameter__rosidl_typesupport_introspection_cpp.hpp
+[0.990s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/csv_file_name__rosidl_typesupport_introspection_cpp.hpp
+[0.998s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/guide_selected__rosidl_typesupport_introspection_cpp.hpp
+[1.007s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/include/custom_interfaces/custom_interfaces/srv/detail/velocity_registration__rosidl_typesupport_introspection_cpp.hpp
+[1.016s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/environment/pythonpath.sh
+[1.025s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/environment/pythonpath.dsv
+[1.035s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[1.043s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.052s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.060s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[1.069s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/__init__.py
+[1.077s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_c.c
+[1.085s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.093s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/_custom_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[1.102s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.110s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.119s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.128s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/libcustom_interfaces__rosidl_generator_py.so
+[1.137s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/msg/__init__.py
+[1.146s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/msg/_parameter.py
+[1.155s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/msg/_parameter_s.c
+[1.163s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/__init__.py
+[1.171s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/_csv_file_name.py
+[1.180s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/_csv_file_name_s.c
+[1.188s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/_guide_selected.py
+[1.196s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/_guide_selected_s.c
+[1.205s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/_velocity_registration.py
+[1.213s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/_velocity_registration_s.c
+[1.222s] -- Up-to-date symlink: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.222s] -- Up-to-date symlink: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.222s] -- Up-to-date symlink: /home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/custom_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.223s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/CSVFileName.idl
+[1.231s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/GuideSelected.idl
+[1.240s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/VelocityRegistration.idl
+[1.248s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/msg/Parameter.idl
+[1.257s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/CSVFileName.srv
+[1.265s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/CSVFileName_Request.msg
+[1.273s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/CSVFileName_Response.msg
+[1.282s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/GuideSelected.srv
+[1.290s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/GuideSelected_Request.msg
+[1.299s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/GuideSelected_Response.msg
+[1.308s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/VelocityRegistration.srv
+[1.316s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/VelocityRegistration_Request.msg
+[1.324s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/srv/VelocityRegistration_Response.msg
+[1.333s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/msg/Parameter.msg
+[1.342s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/ament_index/resource_index/package_run_dependencies/custom_interfaces
+[1.350s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/ament_index/resource_index/parent_prefix_path/custom_interfaces
+[1.359s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.sh
+[1.367s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/environment/ament_prefix_path.dsv
+[1.376s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/environment/path.sh
+[1.384s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/environment/path.dsv
+[1.392s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/local_setup.bash
+[1.401s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/local_setup.sh
+[1.411s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/local_setup.zsh
+[1.421s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/local_setup.dsv
+[1.431s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/package.dsv
+[1.440s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/ament_index/resource_index/packages/custom_interfaces
+[1.448s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake-extras.cmake
+[1.456s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.465s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.473s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[1.481s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[1.488s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.496s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.504s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig.cmake
+[1.513s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfacesConfig-version.cmake
+[1.522s] -- Symlinking: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/package.xml
+[1.531s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_c.so
+[1.531s] -- Set runtime path of "/home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_c.so" to ""
+[1.531s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_c.so
+[1.531s] -- Set runtime path of "/home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[1.531s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[1.532s] -- Set runtime path of "/home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[1.532s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_c.so
+[1.532s] -- Set runtime path of "/home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[1.532s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_c.so
+[1.533s] -- Set runtime path of "/home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_c.so" to ""
+[1.533s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_cpp.so
+[1.533s] -- Set runtime path of "/home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[1.533s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_cpp.so
+[1.534s] -- Set runtime path of "/home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_typesupport_cpp.so" to ""
+[1.568s] Listing '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces'...
+[1.568s] Compiling '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/__init__.py'...
+[1.568s] Listing '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/msg'...
+[1.568s] Compiling '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/msg/__init__.py'...
+[1.568s] Compiling '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/msg/_parameter.py'...
+[1.569s] Listing '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv'...
+[1.569s] Compiling '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/__init__.py'...
+[1.569s] Compiling '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/_csv_file_name.py'...
+[1.569s] Compiling '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/_guide_selected.py'...
+[1.569s] Compiling '/home/crist/smartwalker_ws/install/custom_interfaces/local/lib/python3.10/dist-packages/custom_interfaces/srv/_velocity_registration.py'...
+[1.572s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_py.so
+[1.572s] -- Set runtime path of "/home/crist/smartwalker_ws/install/custom_interfaces/lib/libcustom_interfaces__rosidl_generator_py.so" to ""
+[1.572s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_cExport.cmake
+[1.572s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_cExport-noconfig.cmake
+[1.573s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[1.573s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.573s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_cppExport.cmake
+[1.573s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.573s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.573s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[1.573s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.574s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cExport.cmake
+[1.574s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[1.574s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[1.574s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.574s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cppExport.cmake
+[1.574s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/custom_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[1.575s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_pyExport.cmake
+[1.575s] -- Installing: /home/crist/smartwalker_ws/install/custom_interfaces/share/custom_interfaces/cmake/export_custom_interfaces__rosidl_generator_pyExport-noconfig.cmake

@@ -1,0 +1,18 @@
+All'interno di questo pacchetto sono presenti una serie di librerie di supporto utilizzate dai vari test.
+Si vuole precisare che, molto probabilmente, è più utile usare Pandas rispetto a csv_handler, ma mi sono ricordato dell'esistenza
+di quella libreria troppo tardi.
+All'interno di Curve_manipolation si trovano le funzioni riguardanti la creazione e la parametrizzazione della guida,
+il calcolo dell'accuratezza della bontà del cammino e dei versori normali e tangenti alla guida stessa.
+Parameters doveva ospitare alcuni parametri utili per la navigazione autonoma, in questo caso sono salvati solo le 4 posizioni
+più comuni.
+
+
+--CALCOLO ACCURATEZZA--
+Lo script cerca l'indice della guida di riabilitazione (dist) il cui punto è a distanza minore dal punto considerato
+della traiettoria del robot. Questo è stato introdotto perchè si voleva, qualora il paziente tornasse indietro sui suoi passi perchè era uscito,
+che questo non influisse sull'accuratezza del cammino.
+L'errore trasversale è dato dalla componente normale della distanza dal punto al bordo della guida.
+
+POSSIBILI BUG NOTI: se il punto di inizio è troppo vicino al punto di fine, come magari una circonferenza quasi completa
+e le aree di inizio e fine registrazione lo permettono, può essere possibile ottenere alta accuratezza se il paziente
+passa dal punto iniziale al punto finale direttamente, senza seguire la guida.

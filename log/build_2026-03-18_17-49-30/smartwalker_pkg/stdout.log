@@ -1,0 +1,22 @@
+running develop
+running egg_info
+writing smartwalker_pkg.egg-info/PKG-INFO
+writing dependency_links to smartwalker_pkg.egg-info/dependency_links.txt
+writing entry points to smartwalker_pkg.egg-info/entry_points.txt
+writing requirements to smartwalker_pkg.egg-info/requires.txt
+writing top-level names to smartwalker_pkg.egg-info/top_level.txt
+reading manifest file 'smartwalker_pkg.egg-info/SOURCES.txt'
+writing manifest file 'smartwalker_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/smartwalker-pkg.egg-link (link to .)
+Installing elaborate_data script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+Installing initial_pose script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+Installing move_test script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+Installing odom_data_collector script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+Installing parameter_server script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+Installing rehabilitation_guide script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+Installing subscribe_to_data script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+Installing velocity_data script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+
+Installed /home/crist/smartwalker_ws/build/smartwalker_pkg
+running symlink_data

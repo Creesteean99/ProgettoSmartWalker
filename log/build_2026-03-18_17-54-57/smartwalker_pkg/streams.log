@@ -1,0 +1,60 @@
+[0.791s] Invoking command in '/home/crist/smartwalker_ws/build/smartwalker_pkg': PYTHONPATH=/home/crist/smartwalker_ws/build/smartwalker_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/crist/smartwalker_ws/build/smartwalker_pkg/build --no-deps symlink_data
+[1.105s] running develop
+[1.304s] running egg_info
+[1.304s] creating smartwalker_pkg.egg-info
+[1.316s] writing smartwalker_pkg.egg-info/PKG-INFO
+[1.316s] writing dependency_links to smartwalker_pkg.egg-info/dependency_links.txt
+[1.316s] writing entry points to smartwalker_pkg.egg-info/entry_points.txt
+[1.316s] writing requirements to smartwalker_pkg.egg-info/requires.txt
+[1.316s] writing top-level names to smartwalker_pkg.egg-info/top_level.txt
+[1.316s] writing manifest file 'smartwalker_pkg.egg-info/SOURCES.txt'
+[1.342s] reading manifest file 'smartwalker_pkg.egg-info/SOURCES.txt'
+[1.342s] writing manifest file 'smartwalker_pkg.egg-info/SOURCES.txt'
+[1.356s] running build_ext
+[1.356s] Creating /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/smartwalker-pkg.egg-link (link to .)
+[1.356s] Installing elaborate_data script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.357s] Installing initial_pose script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.357s] Installing move_test script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.357s] Installing odom_data_collector script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.357s] Installing parameter_server script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.357s] Installing rehabilitation_guide script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.357s] Installing subscribe_to_data script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.357s] Installing velocity_data script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.357s] 
+[1.357s] Installed /home/crist/smartwalker_ws/build/smartwalker_pkg
+[1.357s] running symlink_data
+[1.357s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index
+[1.357s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index/resource_index
+[1.357s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index/resource_index/packages
+[1.357s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/resource/smartwalker_pkg -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index/resource_index/packages
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/package.xml -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg
+[1.358s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/launch
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/launch/gazebo_simulation.launch.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/launch
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/launch/simulation.launch.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/launch
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/launch/display_simulation.launch.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/launch
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/launch/ekf.launch.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/launch
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/launch/tb3.launch.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/launch
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/launch/README.txt -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/launch
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/launch/data_nodes.launch.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/launch
+[1.358s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/map
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/map/planimetria.yaml -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/map
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/map/csmtlab.yaml -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/map
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/map/README.txt -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/map
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/map/csmtlab.pgm -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/map
+[1.358s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/map/planimetria.pgm -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/map
+[1.359s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/model
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/model/burger_model.sdf -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/model
+[1.359s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/param
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/param/ekf_local.yaml -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/param
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/param/README.txt -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/param
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/param/nav2_params.yaml -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/param
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/param/ekf_global.yaml -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/param
+[1.359s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/rviz
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/rviz/sim_config.rviz -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/rviz
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/rviz/real_config.rviz -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/rviz
+[1.359s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/urdf
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/urdf/turtlebot3_burger.urdf -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/urdf
+[1.359s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/world
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/world/planimetria.world -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/world
+[1.359s] symbolically linking /home/crist/smartwalker_ws/build/smartwalker_pkg/world/planimetria_with_guide.world -> /home/crist/smartwalker_ws/install/smartwalker_pkg/share/smartwalker_pkg/world
+[1.396s] Invoked command in '/home/crist/smartwalker_ws/build/smartwalker_pkg' returned '0': PYTHONPATH=/home/crist/smartwalker_ws/build/smartwalker_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/crist/smartwalker_ws/build/smartwalker_pkg/build --no-deps symlink_data

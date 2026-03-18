@@ -1,0 +1,1 @@
+/home/crist/smartwalker_ws/build/custom_interfaces/rosidl_typesupport_introspection_c/custom_interfaces/srv/detail/guide_selected__rosidl_typesupport_introspection_c.h

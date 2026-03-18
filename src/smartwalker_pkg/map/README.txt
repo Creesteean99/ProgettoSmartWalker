@@ -1,0 +1,1 @@
+ATTENZIONE: La mappa del laboratorio è stata mappata non parzialmente, di più. Fortemente consigliato una rimappatura dell'ambiente.

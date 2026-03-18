@@ -1,0 +1,4 @@
+/home/crist/smartwalker_ws/build/custom_interfaces/rosidl_adapter/custom_interfaces:srv/CSVFileName.idl
+/home/crist/smartwalker_ws/build/custom_interfaces/rosidl_adapter/custom_interfaces:srv/GuideSelected.idl
+/home/crist/smartwalker_ws/build/custom_interfaces/rosidl_adapter/custom_interfaces:srv/VelocityRegistration.idl
+/home/crist/smartwalker_ws/build/custom_interfaces/rosidl_adapter/custom_interfaces:msg/Parameter.idl

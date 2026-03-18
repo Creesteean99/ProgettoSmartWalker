@@ -1,0 +1,51 @@
+package.xml
+setup.cfg
+setup.py
+launch/README.txt
+launch/data_nodes.launch.py
+launch/display_simulation.launch.py
+launch/ekf.launch.py
+launch/gazebo_simulation.launch.py
+launch/simulation.launch.py
+launch/tb3.launch.py
+map/README.txt
+map/csmtlab.pgm
+map/csmtlab.yaml
+map/planimetria.pgm
+map/planimetria.yaml
+model/burger_model.sdf
+param/README.txt
+param/ekf_global.yaml
+param/ekf_local.yaml
+param/nav2_params.yaml
+resource/smartwalker_pkg
+rviz/real_config.rviz
+rviz/sim_config.rviz
+smartwalker_pkg/__init__.py
+smartwalker_pkg.egg-info/PKG-INFO
+smartwalker_pkg.egg-info/SOURCES.txt
+smartwalker_pkg.egg-info/dependency_links.txt
+smartwalker_pkg.egg-info/entry_points.txt
+smartwalker_pkg.egg-info/requires.txt
+smartwalker_pkg.egg-info/top_level.txt
+smartwalker_pkg.egg-info/zip-safe
+src/__init__.py
+src/elaborate_data.py
+src/initial_pose.py
+src/move_test.py
+src/odom_data_collector.py
+src/parameter_server.py
+src/rehabilitation_guide.py
+src/velocity_data.py
+src/Script Test/__init__.py
+src/Script Test/data_monitor_collector_TEST.py
+src/Script Test/groundtruth_TEST.py
+src/Script Test/localization_evaluation_TEST.py
+src/Script Test/plannerGraphs_TEST.py
+src/custom_classes/__init__.py
+src/custom_classes/csv_handler.py
+src/custom_classes/curve_manipolation.py
+src/custom_classes/parameters.py
+urdf/turtlebot3_burger.urdf
+world/planimetria.world
+world/planimetria_with_guide.world

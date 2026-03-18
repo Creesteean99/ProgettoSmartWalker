@@ -1,0 +1,1 @@
+/home/crist/smartwalker_ws/src/custom_interfaces/msg/Parameter.msg

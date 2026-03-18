@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from custom_interfaces/srv/CSVFileName.srv
+// generated code does not contain a copyright notice
+
+
+module custom_interfaces {
+  module srv {
+    struct CSVFileName_Request {
+      string filename;
+
+      string directory;
+    };
+    struct CSVFileName_Response {
+      string message;
+    };
+  };
+};

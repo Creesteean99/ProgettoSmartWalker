@@ -1,0 +1,9 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/crist/smartwalker_ws/src/custom_interfaces:srv/CSVFileName.srv",
+    "/home/crist/smartwalker_ws/src/custom_interfaces:srv/GuideSelected.srv",
+    "/home/crist/smartwalker_ws/src/custom_interfaces:srv/VelocityRegistration.srv",
+    "/home/crist/smartwalker_ws/src/custom_interfaces:msg/Parameter.msg"
+  ]
+}

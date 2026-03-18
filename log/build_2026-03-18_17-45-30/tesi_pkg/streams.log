@@ -1,0 +1,60 @@
+[0.838s] Invoking command in '/home/crist/smartwalker_ws/build/tesi_pkg': PYTHONPATH=/home/crist/smartwalker_ws/build/tesi_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crist/smartwalker_ws/install/tesi_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/crist/smartwalker_ws/build/tesi_pkg/build --no-deps symlink_data
+[1.152s] running develop
+[1.351s] running egg_info
+[1.351s] creating tesi_pkg.egg-info
+[1.363s] writing tesi_pkg.egg-info/PKG-INFO
+[1.363s] writing dependency_links to tesi_pkg.egg-info/dependency_links.txt
+[1.364s] writing entry points to tesi_pkg.egg-info/entry_points.txt
+[1.364s] writing requirements to tesi_pkg.egg-info/requires.txt
+[1.364s] writing top-level names to tesi_pkg.egg-info/top_level.txt
+[1.364s] writing manifest file 'tesi_pkg.egg-info/SOURCES.txt'
+[1.390s] reading manifest file 'tesi_pkg.egg-info/SOURCES.txt'
+[1.390s] writing manifest file 'tesi_pkg.egg-info/SOURCES.txt'
+[1.404s] running build_ext
+[1.404s] Creating /home/crist/smartwalker_ws/install/tesi_pkg/lib/python3.10/site-packages/tesi-pkg.egg-link (link to .)
+[1.405s] Installing elaborate_data script to /home/crist/smartwalker_ws/install/tesi_pkg/lib/tesi_pkg
+[1.405s] Installing initial_pose script to /home/crist/smartwalker_ws/install/tesi_pkg/lib/tesi_pkg
+[1.405s] Installing move_test script to /home/crist/smartwalker_ws/install/tesi_pkg/lib/tesi_pkg
+[1.405s] Installing odom_data_collector script to /home/crist/smartwalker_ws/install/tesi_pkg/lib/tesi_pkg
+[1.405s] Installing parameter_server script to /home/crist/smartwalker_ws/install/tesi_pkg/lib/tesi_pkg
+[1.405s] Installing rehabilitation_guide script to /home/crist/smartwalker_ws/install/tesi_pkg/lib/tesi_pkg
+[1.405s] Installing subscribe_to_data script to /home/crist/smartwalker_ws/install/tesi_pkg/lib/tesi_pkg
+[1.405s] Installing velocity_data script to /home/crist/smartwalker_ws/install/tesi_pkg/lib/tesi_pkg
+[1.405s] 
+[1.405s] Installed /home/crist/smartwalker_ws/build/tesi_pkg
+[1.406s] running symlink_data
+[1.406s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/ament_index
+[1.406s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/ament_index/resource_index
+[1.406s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/ament_index/resource_index/packages
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/resource/tesi_pkg -> /home/crist/smartwalker_ws/install/tesi_pkg/share/ament_index/resource_index/packages
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/package.xml -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg
+[1.406s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/launch
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/launch/gazebo_simulation.launch.py -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/launch
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/launch/simulation.launch.py -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/launch
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/launch/display_simulation.launch.py -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/launch
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/launch/ekf.launch.py -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/launch
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/launch/tb3.launch.py -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/launch
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/launch/README.txt -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/launch
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/launch/data_nodes.launch.py -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/launch
+[1.406s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/map
+[1.406s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/map/planimetria.yaml -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/map
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/map/csmtlab.yaml -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/map
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/map/README.txt -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/map
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/map/csmtlab.pgm -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/map
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/map/planimetria.pgm -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/map
+[1.407s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/model
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/model/burger_model.sdf -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/model
+[1.407s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/param
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/param/ekf_local.yaml -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/param
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/param/README.txt -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/param
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/param/nav2_params.yaml -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/param
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/param/ekf_global.yaml -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/param
+[1.407s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/rviz
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/rviz/sim_config.rviz -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/rviz
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/rviz/real_config.rviz -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/rviz
+[1.407s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/urdf
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/urdf/turtlebot3_burger.urdf -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/urdf
+[1.407s] creating /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/world
+[1.407s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/world/planimetria.world -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/world
+[1.408s] symbolically linking /home/crist/smartwalker_ws/build/tesi_pkg/world/planimetria_with_guide.world -> /home/crist/smartwalker_ws/install/tesi_pkg/share/tesi_pkg/world
+[1.449s] Invoked command in '/home/crist/smartwalker_ws/build/tesi_pkg' returned '0': PYTHONPATH=/home/crist/smartwalker_ws/build/tesi_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crist/smartwalker_ws/install/tesi_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/crist/smartwalker_ws/build/tesi_pkg/build --no-deps symlink_data

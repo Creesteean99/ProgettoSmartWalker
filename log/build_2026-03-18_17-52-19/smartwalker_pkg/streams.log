@@ -1,0 +1,85 @@
+[0.797s] Invoking command in '/home/crist/smartwalker_ws/src/smartwalker_pkg': PYTHONPATH=/home/crist/smartwalker_ws/build/smartwalker_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/smartwalker_pkg build --build-base /home/crist/smartwalker_ws/build/smartwalker_pkg/build install --record /home/crist/smartwalker_ws/build/smartwalker_pkg/install.log --single-version-externally-managed install_data
+[1.106s] running egg_info
+[1.107s] creating ../../build/smartwalker_pkg/smartwalker_pkg.egg-info
+[1.118s] writing ../../build/smartwalker_pkg/smartwalker_pkg.egg-info/PKG-INFO
+[1.118s] writing dependency_links to ../../build/smartwalker_pkg/smartwalker_pkg.egg-info/dependency_links.txt
+[1.119s] writing entry points to ../../build/smartwalker_pkg/smartwalker_pkg.egg-info/entry_points.txt
+[1.119s] writing requirements to ../../build/smartwalker_pkg/smartwalker_pkg.egg-info/requires.txt
+[1.119s] writing top-level names to ../../build/smartwalker_pkg/smartwalker_pkg.egg-info/top_level.txt
+[1.119s] writing manifest file '../../build/smartwalker_pkg/smartwalker_pkg.egg-info/SOURCES.txt'
+[1.152s] reading manifest file '../../build/smartwalker_pkg/smartwalker_pkg.egg-info/SOURCES.txt'
+[1.153s] writing manifest file '../../build/smartwalker_pkg/smartwalker_pkg.egg-info/SOURCES.txt'
+[1.153s] running build
+[1.153s] running build_py
+[1.153s] creating /home/crist/smartwalker_ws/build/smartwalker_pkg/build
+[1.153s] creating /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib
+[1.154s] creating /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src
+[1.154s] copying src/elaborate_data.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src
+[1.154s] copying src/move_test.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src
+[1.154s] copying src/initial_pose.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src
+[1.154s] copying src/__init__.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src
+[1.154s] copying src/parameter_server.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src
+[1.154s] copying src/odom_data_collector.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src
+[1.154s] copying src/rehabilitation_guide.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src
+[1.154s] copying src/velocity_data.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src
+[1.155s] creating /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/tesi_pkg
+[1.155s] copying tesi_pkg/__init__.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/tesi_pkg
+[1.155s] creating /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/custom_classes
+[1.155s] copying src/custom_classes/parameters.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/custom_classes
+[1.155s] copying src/custom_classes/__init__.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/custom_classes
+[1.155s] copying src/custom_classes/curve_manipolation.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/custom_classes
+[1.155s] copying src/custom_classes/csv_handler.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/custom_classes
+[1.155s] creating /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test
+[1.155s] copying src/Script Test/data_monitor_collector_TEST.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test
+[1.156s] copying src/Script Test/groundtruth_TEST.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test
+[1.156s] copying src/Script Test/__init__.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test
+[1.156s] copying src/Script Test/localization_evaluation_TEST.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test
+[1.156s] copying src/Script Test/plannerGraphs_TEST.py -> /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test
+[1.156s] running install
+[1.160s] running install_lib
+[1.173s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src
+[1.173s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/elaborate_data.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src
+[1.173s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/custom_classes
+[1.173s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/custom_classes/parameters.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/custom_classes
+[1.173s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/custom_classes/__init__.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/custom_classes
+[1.173s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/custom_classes/curve_manipolation.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/custom_classes
+[1.173s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/custom_classes/csv_handler.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/custom_classes
+[1.173s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/move_test.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src
+[1.173s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/initial_pose.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src
+[1.174s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/__init__.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src
+[1.174s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/parameter_server.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src
+[1.174s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/odom_data_collector.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src
+[1.174s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test
+[1.174s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test/data_monitor_collector_TEST.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test
+[1.174s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test/groundtruth_TEST.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test
+[1.174s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test/__init__.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test
+[1.174s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test/localization_evaluation_TEST.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test
+[1.174s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/Script Test/plannerGraphs_TEST.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test
+[1.174s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/rehabilitation_guide.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src
+[1.175s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/src/velocity_data.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src
+[1.175s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/tesi_pkg
+[1.175s] copying /home/crist/smartwalker_ws/build/smartwalker_pkg/build/lib/tesi_pkg/__init__.py -> /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/tesi_pkg
+[1.175s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/elaborate_data.py to elaborate_data.cpython-310.pyc
+[1.176s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/custom_classes/parameters.py to parameters.cpython-310.pyc
+[1.177s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/custom_classes/__init__.py to __init__.cpython-310.pyc
+[1.177s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/custom_classes/curve_manipolation.py to curve_manipolation.cpython-310.pyc
+[1.177s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/custom_classes/csv_handler.py to csv_handler.cpython-310.pyc
+[1.178s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/move_test.py to move_test.cpython-310.pyc
+[1.178s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/initial_pose.py to initial_pose.cpython-310.pyc
+[1.179s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/__init__.py to __init__.cpython-310.pyc
+[1.179s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/parameter_server.py to parameter_server.cpython-310.pyc
+[1.182s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/odom_data_collector.py to odom_data_collector.cpython-310.pyc
+[1.182s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test/data_monitor_collector_TEST.py to data_monitor_collector_TEST.cpython-310.pyc
+[1.184s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test/groundtruth_TEST.py to groundtruth_TEST.cpython-310.pyc
+[1.184s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test/__init__.py to __init__.cpython-310.pyc
+[1.184s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test/localization_evaluation_TEST.py to localization_evaluation_TEST.cpython-310.pyc
+[1.185s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/Script Test/plannerGraphs_TEST.py to plannerGraphs_TEST.cpython-310.pyc
+[1.186s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/rehabilitation_guide.py to rehabilitation_guide.cpython-310.pyc
+[1.186s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/src/velocity_data.py to velocity_data.cpython-310.pyc
+[1.186s] byte-compiling /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/tesi_pkg/__init__.py to __init__.cpython-310.pyc
+[1.187s] running install_data
+[1.187s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index
+[1.187s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index/resource_index
+[1.187s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index/resource_index/packages
+[1.187s] error: can't copy 'resource/smartwalker_pkg': doesn't exist or not a regular file
+[1.218s] Invoked command in '/home/crist/smartwalker_ws/src/smartwalker_pkg' returned '1': PYTHONPATH=/home/crist/smartwalker_ws/build/smartwalker_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/smartwalker_pkg build --build-base /home/crist/smartwalker_ws/build/smartwalker_pkg/build install --record /home/crist/smartwalker_ws/build/smartwalker_pkg/install.log --single-version-externally-managed install_data

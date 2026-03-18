@@ -1,0 +1,31 @@
+[0.782s] Invoking command in '/home/crist/smartwalker_ws/build/smartwalker_pkg': PYTHONPATH=/home/crist/smartwalker_ws/build/smartwalker_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/crist/smartwalker_ws/build/smartwalker_pkg/build --no-deps symlink_data
+[1.089s] running develop
+[1.281s] running egg_info
+[1.281s] creating smartwalker_pkg.egg-info
+[1.293s] writing smartwalker_pkg.egg-info/PKG-INFO
+[1.293s] writing dependency_links to smartwalker_pkg.egg-info/dependency_links.txt
+[1.293s] writing entry points to smartwalker_pkg.egg-info/entry_points.txt
+[1.293s] writing requirements to smartwalker_pkg.egg-info/requires.txt
+[1.293s] writing top-level names to smartwalker_pkg.egg-info/top_level.txt
+[1.293s] writing manifest file 'smartwalker_pkg.egg-info/SOURCES.txt'
+[1.318s] reading manifest file 'smartwalker_pkg.egg-info/SOURCES.txt'
+[1.318s] writing manifest file 'smartwalker_pkg.egg-info/SOURCES.txt'
+[1.331s] running build_ext
+[1.331s] Creating /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages/smartwalker-pkg.egg-link (link to .)
+[1.332s] Installing elaborate_data script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.332s] Installing initial_pose script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.332s] Installing move_test script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.332s] Installing odom_data_collector script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.332s] Installing parameter_server script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.332s] Installing rehabilitation_guide script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.332s] Installing subscribe_to_data script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.332s] Installing velocity_data script to /home/crist/smartwalker_ws/install/smartwalker_pkg/lib/smartwalker_pkg
+[1.333s] 
+[1.333s] Installed /home/crist/smartwalker_ws/build/smartwalker_pkg
+[1.333s] running symlink_data
+[1.333s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share
+[1.333s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index
+[1.333s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index/resource_index
+[1.333s] creating /home/crist/smartwalker_ws/install/smartwalker_pkg/share/ament_index/resource_index/packages
+[1.333s] error: can't copy '/home/crist/smartwalker_ws/build/smartwalker_pkg/resource/smartwalker_pkg': doesn't exist or not a regular file
+[1.368s] Invoked command in '/home/crist/smartwalker_ws/build/smartwalker_pkg' returned '1': PYTHONPATH=/home/crist/smartwalker_ws/build/smartwalker_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crist/smartwalker_ws/install/smartwalker_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/crist/smartwalker_ws/build/smartwalker_pkg/build --no-deps symlink_data
