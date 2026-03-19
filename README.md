@@ -159,3 +159,18 @@ The project supports both **Robot Localization** and **AMCL**.
 
 ## Internal Documentation
 Most folders within this workspace contain their own `README.md` files with specific clarifications regarding their content and internal logic.
+
+## 🚀 Future Developments
+
+* **Methodical EKF Calibration:** Implementing a more rigorous tuning of the `robot_localization` filters, especially for physical robot deployment.
+* **Enhanced Custom Guides:** Adding the ability to save, archive, and reload multiple custom trajectories, as well as saving new autonomous navigation waypoints.
+* **Gazebo Visualization:** Implementing visual rendering for various guide types within the Gazebo environment.
+* **Controller Server Optimization:** Validating different Controller Server plugins and implementing advanced filters for the Costmaps.
+
+---
+
+## Author & Contact
+
+For further information or to report issues, please contact the development team:
+
+* **Cristian Savoldi** – [https://github.com/Creesteean99]
