@@ -160,7 +160,7 @@ The project supports both **Robot Localization** and **AMCL**.
 ## Internal Documentation
 Most folders within this workspace contain their own `README.md` files with specific clarifications regarding their content and internal logic.
 
-## 🚀 Future Developments
+## Future Developments
 
 * **Methodical EKF Calibration:** Implementing a more rigorous tuning of the `robot_localization` filters, especially for physical robot deployment.
 * **Enhanced Custom Guides:** Adding the ability to save, archive, and reload multiple custom trajectories, as well as saving new autonomous navigation waypoints.
