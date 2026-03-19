@@ -39,7 +39,7 @@ If you intend to use a physical Turtlebot3, please refer to the [official docume
 
 Clone the GitHub repository:
 ```bash
-git clone [https://github.com/Creesteean99/ProgettoSmartWalker.git](https://github.com/Creesteean99/ProgettoSmartWalker.git)
+git clone https://github.com/Creesteean99/ProgettoSmartWalker.git
 ```
 
 ---
@@ -90,10 +90,13 @@ export TURTLEBOT3_MODEL=burger
     ```bash
     ros2 launch smartwalker_pkg simulation.launch.py
     ```
+> **Note on Workflow:** > Step 1 (Building) is **not required** every time you launch the simulation. Thanks to the `--symlink-install` flag, once the workspace is built the first time, any changes made to Python scripts or launch files will be applied immediately. You can skip the build step and proceed directly to Step 2 unless you add new files, dependencies, or change C++ code.
+
+---
 
 > **Pro Tip (Optional):** You can automate this entire process by adding an **alias** at the end of your `.bashrc` file. 
 > Add the following line:
-> `alias startsim='cd ~/smartwalker_ws; colcon build --symlink-install; source install/setup.bash; ros2 launch smartwalker_pkg simulation.launch.py'`
+> `alias startsim='cd ~/smartwalker_ws && colcon build --symlink-install && source install/setup.bash && ros2 launch smartwalker_pkg simulation.launch.py'`
 >
 > After saving, you will only need to type `startsim` in a new terminal to build and launch everything at once.
 
