@@ -100,11 +100,11 @@ class DataElaborator(Node):
                 self.ax1.grid()
                 self.ax1.axis("equal")
 
-                # Aggiungo spessore della guida
+                # Adding guide thickness
                 poly_x, poly_y = pl.get_band_area(self.reference[:-1,:], self.delta)
                 self.ax1.fill(poly_x, poly_y, alpha=0.25, color="blue", label="Guida")
 
-                # Calcolo di accuratezza
+                # Accuracy evaluation
                 accuracy = pl.calculate_errors(gamma= self.reference,
                                                robot=subject_perf,
                                                Emax=self.thickness,
